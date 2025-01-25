@@ -1204,6 +1204,12 @@
     list-style: none;
 }
 
+.content-list a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
 .content-list li{
     font-size: 0.8rem;
     color: #697586;
